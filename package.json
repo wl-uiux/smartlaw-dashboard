@@ -1,0 +1,82 @@
+ {
+    "title": "WebSkills SmartLaw Forms Site for LexDAO",
+    "name": "3310-forms-site-metagame",
+    "version": "0.1.0",
+    "description": "WebSkills SmartLaw Forms Site for LexDAO",
+    "author": "Scott Stevenson <scott@onelaw.us> and Lucas Ziegenfuhs DrHongo <lucasziegenfuhs@gmail.com> ",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/tenfinney/3310-forms-site-metagame.git"
+    },
+    "license": "MIT",
+
+  "private": false,
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.3",
+    "@chakra-ui/system": "^1.7.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@testing-library/dom": "^8.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@walletconnect/web3-provider": "^1.4.1",
+    "cids": "^1.1.6",
+    "d3": "^6.7.0",
+    "ethers": "^5.3.1",
+    "formik": "^2.2.9",
+    "framer-motion": "^4",
+    "ipfs": "^0.55.2",
+    "ipfs-http-client": "^50.1.0",
+    "next": "^11.1.0",
+    "node-pre-gyp": "^0.17.0",
+    "orbit-db": "^0.26.1",
+    "orbit-db-access-controllers": "^0.2.6",
+    "orbit-db-io": "^0.5.0",
+    "react": "^17.0.2",
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "^17.0.2",
+    "react-focus-lock": "^2.5.2",
+    "react-icons": "^4.2.0",
+    "react-iframe": "^1.8.0",
+    "react-is": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
+    "typescript": "^4.3.5",
+    "vercel": "^23.1.2",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.3.6",
+    "web3modal": "^1.9.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

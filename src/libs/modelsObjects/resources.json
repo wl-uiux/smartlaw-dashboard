@@ -1,0 +1,57 @@
+{
+  "name": "Web3Skills",
+  "children": [
+  {
+  "name": "Master Web3 Project", "icon": "",
+  "children": [
+  { "name" : "Web3 Starter Website ", "img": "", "value": 10, "children" : [
+  { "name" : "Web3 Starter Website ",
+  "children": [
+  { "name" : "Website", "img": "", "url": "https://web3skills.com", "value": 1 },
+  { "name" : "Application", "img": "", "url": "https://web3vm.com", "value": 1 }
+  ]},
+  { "name" : "Comm. Channels",
+  "children": [
+  { "name" : "Documentation", "img": "", "url": "https://freeweb3.com", "value": 1 },
+  { "name" : "Analytics", "img": "", "url": "https://freeweb3.com", "value": 1 },
+  { "name" : "Twitter", "img": "", "url": "https://freeweb3.com", "value": 1 },
+  { "name" : "Discord", "img": "", "url": "https://freeweb3.com", "value": 1 },
+  { "name" : "Github", "img": "", "url": "https://freeweb3.com", "value": 1 }
+  ]},
+  { "name" : "Project Contacts",
+  "children": [
+  { "name" : "Contact-01", "img": "", "url": "https://twitter.com/tenfinney", "value": 1 },
+  { "name" : "Contact-02", "img": "", "url": "https://twitter.com/tenfinney", "value": 1 },
+  { "name" : "Contact-03", "img": "", "url": "https://twitter.com/tenfinney", "value": 1 }
+  ]}
+  ]}
+  ]},
+  {
+  "name": "Decentralized Finance DeFi", "icon": "",
+  "children": [
+  { "name" : "Custodial Exchanges ",
+  "children": [
+  {"name" : "Coinbase Pro", "img": "", "url": "https://pro.coinbase.com/portfolios/USD", "value": 1 },
+  {"name" : "ETH BTC TradingView", "img": "", "url": "https://tradingview.com/symbols/ETHBTC/", "value": 1 },
+  {"name" : "Ethereum DeFi Ecosystem", "img": "", "url": "https://defiprime.com/ethereum", "value": 1 },
+  {"name" : "Plaid FinTech", "img": "", "url": "https://plaid.com/", "value": 1 },
+  {"name" : "Wyre API Reference", "img": "", "url": "https://docs.sendwyre.com/", "value": 1 }
+  ]},
+  { "name" : "Automated Market Making ",
+  "children": [
+  {"name" : "0x tokens on Ethereum", "img": "", "url": "https://0x.org/", "value": 1 },
+  {"name" : "1inch DeFi DEX Aggregator", "img": "", "url": "https://app.1inch.io/", "value": 1 },
+  {"name" : "MakerDAO", "img": "", "url": "https://makerdao.com/en/", "value": 1 },
+  {"name" : "Rari Capital", "img": "", "url": "https://rari.capital/", "value": 1 }
+  ]},
+  { "name" : "Liquidity Pools ",
+  "children": [
+  {"name" : "Balancer Pools", "img": "", "url": "https://pools.balancer.exchange/#/", "value": 1 },
+  {"name" : "Balancer Wallet", "img": "", "url": "https://pools.balancer.exchange/#/wallet", "value": 1 },
+  {"name" : "DeFiPulse Index Price", "img": "", "url": "https://coingecko.com/en/coins/defipulse-index", "value": 1 },
+  {"name" : "Balancer Pools", "img": "", "url": "https://bafybeicpzhzgbkb64zcvsr3fcskfyptgj5b3nmotrwac3pyfuypmm65nii.ipfs.infura-ipfs.io/", "value": 1 }
+  ]}
+  ]}
+  ]
+  }
+  
