@@ -55,7 +55,7 @@ If you are admitted in to the clinic you will have one of 3 roles; a **host/inst
 
 #### Tools we will use in the clinic.
 * Smart-contracts written in the Solidity language
-* Direct javascript calls to the blockchains,
+* Direct javascript calls to the blockchains
 * API calls to and from databases
 * Content storage like IPFS and ARWEAVE
 * Node based application and components
