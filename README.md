@@ -29,7 +29,7 @@ The clinic will run until the second third week in January 2023.
 4. Steps to apply and actions to join:
 	1. Attend a live call and introduce yourself. ☑
 	2. Create a Self.ID profile. https://self.id/
-	3. Completely fill out the form at **https://clinic/freeweb3.com/ElementsIcons** 
+	3. Completely fill out the form at **https://clinic.freeweb3.com/** go to the menu and select **Clinic Signup** and then click **Automation Clinic Signup 
 	4. Vote for a group meeting time in Snapshot. See https://snapshot.org/#/smartlaw.eth and  https://snapshot.org/#/profile/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178
 
 	5. Join Web3Skills SmartLaw Discord for team workflow and rewards. https://discord.gg/DP4smrHr
