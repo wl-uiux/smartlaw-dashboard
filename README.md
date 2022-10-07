@@ -34,7 +34,7 @@ The clinic will run until the second third week in January 2023.
 
 	5. Join Web3Skills SmartLaw Discord for team workflow and rewards. https://discord.gg/DP4smrHr
 
-If you are admitted in to the clinic you will have one of 3 roles; an **host/instructor, OS-adminstrator, or a code-warden/legal engineer**. 
+If you are admitted in to the clinic you will have one of 3 roles; a **host/instructor, OS-adminstrator, or a code-warden/legal engineer**. 
 
 *Note: We do not practice law. We develop tools for practitioners.*  
 
