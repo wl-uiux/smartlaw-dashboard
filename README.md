@@ -81,7 +81,14 @@ If you are admitted in to the clinic you will have one of 3 roles; a **host/inst
 	 - [ ] **Lesson 9**: Passing role tokens (NFTs) for operations teams. I have some **Ethereans** we will pass among operators as examples. When the NFT passes, so does the operation role assigned to it. [https://opensea.io/collection/ethereans-official](https://opensea.io/collection/ethereans-official "https://opensea.io/collection/ethereans-official") (edited)
 	 
 	 .
+---
+Helpers: 
+2.  A liitle pre-clinic homework for those who want to be prepared. We will also go over it in the primer meeting, but once you have that ISO image on a bootable USB and a computer to recognize it, It's off to the races. Here are a few way to go about it. **Easiest way**: [https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html#:~:text=bootable%20USB%20stick-,In%20Linux%20Mint,USB%20device%20and%20click%20Write](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html#:~:text=bootable%20USB%20stick-,In%20Linux%20Mint,USB%20device%20and%20click%20Write "https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html#:~:text=bootable%20USB%20stick-,In%20Linux%20Mint,USB%20device%20and%20click%20Write"). **Other methods:** [https://support.apple.com/en-us/HT201372](https://support.apple.com/en-us/HT201372 "https://support.apple.com/en-us/HT201372") . [https://learn.microsoft.com/en-us/windows-server-essentials/install/create-a-bootable-usb-flash-drive](https://learn.microsoft.com/en-us/windows-server-essentials/install/create-a-bootable-usb-flash-drive "https://learn.microsoft.com/en-us/windows-server-essentials/install/create-a-bootable-usb-flash-drive") . [https://www.tecmint.com/linux-bootable-usb-creators/](https://www.tecmint.com/linux-bootable-usb-creators/ "https://www.tecmint.com/linux-bootable-usb-creators/") there are a lot of ways to do this, just find one that works for you .... When you have the USB ready. This is the way to get your computer to recognize it as the primary boot media and we will proceed with installation of the OS: [https://www.acronis.com/en-us/cyber-protection-center/posts/usb-boot/](https://www.acronis.com/en-us/cyber-protection-center/posts/usb-boot/ "https://www.acronis.com/en-us/cyber-protection-center/posts/usb-boot/") (edited)
+    
 
+
+
+---
 
 ![2022-demo-images-art-009.png](https://freeweb3.infura-ipfs.io/ipfs/QmNSPfxk74PMbAXmH5yZNu4ZeYLGoXwNXrERfT8Y4iZzxh/)
 
