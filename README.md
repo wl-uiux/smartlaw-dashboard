@@ -21,11 +21,12 @@ The clinic will run until the second third week in January 2023.
 
 
 1. Introductions: whoami? whoaru?
+ Tenfinney (Scott) i like Web3-connected legal-based metaverse things. Here are a few I like to use:
     * https://wemeta.world/
     * https://metaverse.whaleanalytica.com/?meta=cryptovoxels
 
 
-3. Everyone in LexDAO should have access to the SmartLaw snapshot vote for the Automation clinic. *See [Access Token]((https://opensea.io/assets/matic/0xa77e11b845e31e2c24ddc004fb8f93759c097274/496925736968920592695302422083945832576479845996267831971701744113549326)) and [Membership Token]((https://opensea.io/assets/matic/0x9378f978c691f0247dd75f5efa4c77efb31b26c6/41)) and [Legal Engineering Token]((https://opensea.io/assets/ethereum/0x7106bb3faaa84fff35ed57405d24d47dea6df183/6))* 
+3. Everyone in LexDAO should have an access token for voting. *See [Access Token]((https://opensea.io/assets/matic/0xa77e11b845e31e2c24ddc004fb8f93759c097274/496925736968920592695302422083945832576479845996267831971701744113549326)) and [Membership Token]((https://opensea.io/assets/matic/0x9378f978c691f0247dd75f5efa4c77efb31b26c6/41)) and [Legal Engineering Token]((https://opensea.io/assets/ethereum/0x7106bb3faaa84fff35ed57405d24d47dea6df183/6))* 
 4. Steps to apply and actions to join:
 	1. Attend a live call and introduce yourself. ☑
 	2. Create a Self.ID profile. https://self.id/
