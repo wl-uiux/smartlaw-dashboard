@@ -5,7 +5,6 @@ Notes for the Automation Clinic
 ![WSM](https://user-images.githubusercontent.com/32429716/194555966-3ff70653-d55d-4abd-a099-c16bf28ab3b2.gif)
 
 
-
 ![scorpius_image_20221007_1](https://user-images.githubusercontent.com/32429716/194557032-3c300596-77a4-44d9-837c-c66627377907.png)
 
 The clinic will start in mid October when new law students have settled into their **3L** or **ML** courses. There will be nine seats available, 3 for each house focus-group. (**future hosts/instructors, OS-admins, and code-wardens**). 
@@ -15,11 +14,7 @@ The clinic will run until the second third week in January 2023.
 *The clinic is also available to non-legal experienced-based LexDAO members, but they will not participate in the later Lessons (TBD 10+) focused on the law in practice. (some self-guided resources will be available for some of the basics on law school taught topics). The subject matters are too broad for an **automation clinic**)*
 
 
-1. Introductions: whoami? whoaru?
- Tenfinney (Scott) I like Web3-connected legal-based metaverse things. Here are a few I like to use:
-    * https://wemeta.world/
-    * https://metaverse.whaleanalytica.com/?meta=cryptovoxels
-
+1. Introductions:
 
 3. Everyone in LexDAO should have an access token for voting. *See [Access Token]((https://opensea.io/assets/matic/0xa77e11b845e31e2c24ddc004fb8f93759c097274/496925736968920592695302422083945832576479845996267831971701744113549326)) and [Membership Token]((https://opensea.io/assets/matic/0x9378f978c691f0247dd75f5efa4c77efb31b26c6/41)) and [Legal Engineering Token]((https://opensea.io/assets/ethereum/0x7106bb3faaa84fff35ed57405d24d47dea6df183/6))* 
 4. Steps to apply and actions to join:
