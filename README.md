@@ -16,7 +16,7 @@ The clinic will run until the second third week in January 2023.
 
 
 1. Introductions: whoami? whoaru?
- Tenfinney (Scott) i like Web3-connected legal-based metaverse things. Here are a few I like to use:
+ Tenfinney (Scott) I like Web3-connected legal-based metaverse things. Here are a few I like to use:
     * https://wemeta.world/
     * https://metaverse.whaleanalytica.com/?meta=cryptovoxels
 
@@ -25,7 +25,7 @@ The clinic will run until the second third week in January 2023.
 4. Steps to apply and actions to join:
 	1. Attend a live call and introduce yourself. ☑
 	2. Create a Self.ID profile. https://self.id/
-	3. Completely fill out the form at **https://clinic-signup.freeweb3.com//** 
+	3. Completely fill out the form at **https://clinic-signup.freeweb3.com/** 
 	4. Later: For Reference only until we have a full group.  Vote for a group meeting time in Snapshot. See https://snapshot.org/#/smartlaw.eth and  https://snapshot.org/#/profile/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178
 
 	5. Join Web3Skills SmartLaw Discord for team workflow and reward after the form is filled out. 
