@@ -66,7 +66,8 @@ If you are admitted in to the clinic you will have one of 3 roles; a **host/inst
 	 - [ ] **Lesson 2**: Access an endpoint of a public blockchain and query transactions (**Ethereum Mainnet**) using script files. Guided installation using **Infura**. 
 	 - [ ] **Lesson 3**: Create a **SSH** public/private key pair and attach it to **Github**. Guided setup. 
 	 - [ ] **Lesson 4**: Create a public/private keypair for **Web3** use. Guided setup by running the computation locally. 
-	 - [ ] **Lesson 5**: Use a private key to create a **SmartLaw Access Token** and use it to gate content. **Lesson #6**: Use a private key to create a non-transferable **SmartLaw Achievement Token** and distribute it to a user list. 
+	 - [ ] **Lesson 5**: Use a private key to create a **SmartLaw Access Token** and use it to gate content. 
+	 - [ ] **Lesson #6**: Use a private key to create a non-transferable **SmartLaw Achievement Token** and distribute it to a user list. 
 	 - [ ] **Lesson 7**: Encrypt a document an put in on a local **IPFS** node. 
 	 - [ ] **Lesson 8**: Set up a Remote Procedure Call (**RPC**) in an account manager (**Metamask**) and memorialize the encrypted document on a public blockchain (**Polygon**). 
 	 - [ ] **Lesson 9**: Passing role tokens (NFTs) for operations teams. I have some **Ethereans** we will pass among operators as examples. When the NFT passes, so does the operation role assigned to it. [https://opensea.io/collection/ethereans-official](https://opensea.io/collection/ethereans-official "https://opensea.io/collection/ethereans-official") (edited)
