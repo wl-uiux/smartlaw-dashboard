@@ -40,7 +40,7 @@ If you are admitted in to the clinic you will have one of 3 roles; a **host/inst
 5. Explore a deep library of developer tools with Web3Skills scaffolding and token gated course content.
 6. Explore the anatomy of a  NodeJS React application that serves the SmartLaw operating system.
 7. Explore how decentralized finance is disrupting traditional financial markets with oracles.
-8. Explore the metavers and get a glimpse into the future of computing and the immersive user experience in 3-dimensional digital worlds. 
+8. Explore the metaverse and get a glimpse into the future of computing and the immersive user experience in 3-dimensional digital worlds. 
 
 
 
